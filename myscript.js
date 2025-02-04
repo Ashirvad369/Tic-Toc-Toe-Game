@@ -29,7 +29,7 @@
 	    else if(turn==0)
 	    {
 		    tic.play();
-		  e.innerHTML="<img src='O.png'/>";
+		  e.innerHTML="<img src='O.jpg'/>";
 		  
 		  hint.innerHTML = "X Player Turn";
 		  turn=1;
